@@ -1,0 +1,6 @@
+https://steamcommunity.com/sharedfiles/filedetails/?id=635281092
+https://dontstarve.fandom.com/wiki/Guides/Simple_Dedicated_Server_Setup
+
+"C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together Dedicated Server\bin\scripts\launch_preconfigured_servers.bat"
+
+C:\Users\Steven\Documents\Klei
