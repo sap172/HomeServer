@@ -1,0 +1,8 @@
+Need to install OpenTTD to get the executable
+https://www.openttd.org/downloads/openttd-releases/latest.html
+
+Install OpenTTD
+"C:\Program Files\OpenTTD\openttd.exe" and install graphics
+Close OpenTTD
+"C:\Program Files\OpenTTD\openttd.exe" -D
+Allow firewall access

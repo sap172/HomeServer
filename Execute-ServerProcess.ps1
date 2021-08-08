@@ -1,5 +1,5 @@
 ﻿$actionList = "START","STOP"
-$listOfProcessNames = "DONTSTARVE"
+$listOfProcessNames = "DONTSTARVE","OPENTTD"
 
 function Execute-ServerProcessInternal {
     param(
@@ -9,7 +9,7 @@ function Execute-ServerProcessInternal {
         [String] $Action,
         [Parameter( Mandatory=$true,
                     ParameterSetName="Action",
-                    HelpMessage="Process name to perform action on. [DONTSTARVE]")]
+                    HelpMessage="Process name to perform action on. [DONTSTARVE, OPENTTD]")]
         [String] $ProcessName
     )
 
